@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/PrefabStandaloneEditor"]
+	path = Assets/Plugins/PrefabStandaloneEditor
+	url = https://github.com/Cloudage/PrefabStandaloneEditor.git
