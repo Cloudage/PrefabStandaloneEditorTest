@@ -1,0 +1,2 @@
+# PrefabStandaloneEditorTest
+Test project for PrefabStandaloneEditor
